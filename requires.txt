@@ -1,0 +1,450 @@
+Loaded modules: 
+gc:  
+pyreadline.modes.basemode:  backward_delete_word,absolute_import,console
+pprint:  __module__,format,_StringIO
+requests.packages.chardet.constants:  eStart,SHORTCUT_THRESHOLD,_debug
+string:  ascii_lowercase,upper,__module__
+pyasn1.type.univ:  __int__,getComponentType,all
+email.quoprimime:  unquote,_unquote_match,bqre
+requests.packages.urllib3.util.request:  make_headers,b64encode,b
+pyreadline.modes:  notemacs,__all__,unicode_literals
+json.encoder:  __module__,ESCAPE,_make_iterencode
+datetime:  
+pyreadline.rlmain:  callback_handler_remove,__module__,prompt
+urllib3.util.retry:  __module__,Retry,is_forced_retry
+cmd:  do_help,__module__,prompt
+requests.packages.chardet.hebrewprober:  feed,MIN_FINAL_CHAR_DISTANCE,__module__
+os2emxpath:  pardir,realpath,stat
+pyasn1.type:  
+shlex:  __module__,get_token,file
+requests.packages.chardet.escsm:  eStart,ISO2022JPCharLenTable,HZCharLenTable
+dummy_threading:  held__threading_local,holding__threading_local,sys_modules
+dis:  hasjrel,hasconst,HAVE_ARGUMENT
+urllib3.packages.ssl_match_hostname._implementation:  __module__,__version__,_dnsname_match
+pyasn1.type.constraint:  __module__,_testValue,__radd__
+ctypes.macholib.dyld:  framework_find,dyld_default_search,dyld_executable_path_search
+requests.packages.chardet.sbcsgroupprober:  Latin2HungarianModel,CharSetGroupProber,Win1253GreekModel
+abc:  __module__,_InstanceType,_abc_invalidation_counter
+bdb:  __module__,get_file_breaks,clear_bpbynumber
+ntpath:  pardir,realpath,exists
+UserDict:  __module__,popitem,pop
+pyreadline.lineeditor.lineobj:  delete_horizontal_space,visible_line_width,backward_delete_word
+encodings.aliases:  __doc__,aliases
+urllib3.packages:  ssl_match_hostname,absolute_import
+requests.packages.urllib3.exceptions:  PoolError,__module__,ProxyError
+enum:  __module__,__format__,OrderedDict
+optparse:  format_option,_check_conflict,__str__
+unittest.suite:  __module__,__str__,_isnotsuite
+_ctypes:  
+fnmatch:  _purge,__all__,fnmatchcase
+json.scanner:  __all__,py_make_scanner,re
+OpenSSL._util:  path_string,sys,exception_from_error_queue
+codecs:  __module__,getreader,CodecInfo
+cryptography.hazmat.primitives:  division,print_function,absolute_import
+urllib3.util.timeout:  clone,current_time,__module__
+email.header:  __module__,UEMPTYSTRING,make_header
+StringIO:  __module__,readlines,getvalue
+requests.packages.chardet.euctwfreq:  EUCTW_TYPICAL_DISTRIBUTION_RATIO,EUCTW_TABLE_SIZE,EUCTWCharToFreqOrder
+weakref:  ProxyTypes,__module__,popitem
+pyasn1.codec.ber.eoo:  __module__,endOfOctets,defaultValue
+doctest:  REPORT_UDIFF,get_doctest,_parse_example
+win32pipe:  
+base64:  test1,standard_b64decode,standard_b64encode
+requests.packages.chardet.langbulgarianmodel:  BulgarianLangModel,Win1251BulgarianModel,win1251BulgarianCharToOrderMap
+_sre:  
+email.charset:  from_splittable,__module__,__str__
+select:  
+_heapq:  
+requests.api:  head,get,sessions
+requests.packages.urllib3.util:  ssl_wrap_socket,SSLContext,parse_url
+binascii:  
+cryptography.hazmat.bindings.openssl._conditional:  division,CONDITIONAL_NAMES,print_function
+email._parseaddr:  parsedate,getdomain,__module__
+tokenize:  LPAR,PseudoToken,ENDMARKER
+pyasn1.type.error:  __module__,PyAsn1Error,ValueConstraintError
+pyasn1.error:  SubstrateUnderrunError,__module__,PyAsn1Error
+pyasn1.codec.cer.decoder:  __module__,oct2int,protoComponent
+cPickle:  
+outputs:  __module__,PrintToHTMLFile,socket
+pyasn1.type.base:  typeId,__module__,hasValue
+requests.packages.urllib3.contrib.pyopenssl:  __module__,SubjectAltName,orig_connection_ssl_wrap_socket
+pyreadline.keysyms:  success,unicode_literals,winconstants
+requests.packages.chardet.langhungarianmodel:  win1250HungarianCharToOrderMap,Latin2HungarianModel,Win1250HungarianModel
+requests.packages.chardet.langcyrillicmodel:  latin5_CharToOrderMap,Ibm866Model,RussianLangModel
+exceptions:  
+sre_parse:  insert,_sre,_PATTERNENDERS
+pickle:  EMPTY_DICT,NEWTRUE,TypeType
+requests.packages.chardet.charsetprober:  reset,feed,__module__
+numbers:  __module__,__rtruediv__,__metaclass__
+requests.exceptions:  RetryError,BaseHTTPError,ConnectTimeout
+email.message:  get_charsets,__module__,get_all
+urllib3.fields:  make_multipart,mimetypes,render_headers
+strop:  
+xml.etree.ElementPath:  parent_map,__module__,prepare_descendant
+requests.packages.chardet.big5prober:  __module__,Big5SMModel,Big5DistributionAnalysis
+six:  _resolve,PY2,PY3
+OpenSSL:  rand,__all__,crypto
+pyasn1.debug:  flagNone,__module__,flagAll
+pyreadline.console.ironpython_console:  IronPythonConsole,Console,WriteLine
+csv:  get_dialect,DictWriter,DictReader
+pyreadline.console.event:  __module__,unicode_literals,absolute_import
+requests.packages.chardet.gb2312freq:  GB2312_TYPICAL_DISTRIBUTION_RATIO,GB2312CharToFreqOrder,GB2312_TABLE_SIZE
+ctypes.util:  _num_version,find_library,_get_build_version
+requests.packages.chardet.latin1prober:  Latin1ClassModel,feed,__module__
+email.parser:  __module__,Parser,__all__
+requests.packages.urllib3.packages:  ssl_match_hostname,absolute_import
+types:  __module__,IntType,TypeType
+requests.packages.urllib3.util.ssl_:  OP_NO_SSLv3,OP_NO_SSLv2,__module__
+email.base64mime:  a2b_base64,NL,decodestring
+pyasn1:  sys,__version__
+_weakrefset:  __module__,difference_update,__ne__
+urllib3.connectionpool:  HTTPSConnectionPool,Retry,HTTPConnection
+functools:  __ne__,wraps,partial
+urllib3.exceptions:  PoolError,__module__,ProxyError
+pyreadline.lineeditor.wordmatcher:  mark_start_segment_index,markwords,mark_end_segment_index
+win32evtlog:  
+urllib3.util.request:  make_headers,b64encode,b
+_bisect:  
+uuid:  __int__,RESERVED_FUTURE,__module__
+tempfile:  _TemporaryFileWrapper,_set_cloexec,_candidate_tempdir_list
+OpenSSL.SSL:  ZeroReturnError,_ALPNSelectHelper,partial
+pyasn1.compat.octets:  oct2int,version_info,isOctetsType
+imp:  
+requests.adapters:  urldefragauth,_SSLError,Retry
+pyreadline.clipboard.win32_clipboard:  Union,_argtypes_,c_wchar
+pyasn1.type.useful:  __module__,GeneralizedTime,UTCTime
+unittest.util:  namedtuple,strclass,OrderedDict
+urllib3.packages.six:  _resolve,__module__,_iteritems
+httplib:  _check_close,__str__,set_debuglevel
+decimal:  __int__,_convert_other,_parse_format_specifier_regex
+requests.packages.urllib3.packages.ssl_match_hostname._implementation:  __module__,__version__,_dnsname_match
+logging.handlers:  ST_MTIME,computeRollover,LOG_ALERT
+token:  DEDENT,LPAR,ENDMARKER
+email.encoders:  _encodestring,__all__,encode_7or8bit
+OpenSSL.crypto:  get_friendlyname,partial,get_type_name
+requests.packages.chardet.charsetgroupprober:  reset,feed,__module__
+requests.packages.urllib3.packages.ordered_dict:  __module__,OrderedDict,iteritems
+pyreadline.clipboard.no_clipboard:  unicode_literals,absolute_import,SetClipboardText
+cStringIO:  
+inputs:  fileExists,updateTekDefenseXMLTree,hashlib
+win32wnet:  
+pyreadline.logger:  socket_handler,__module__,unicode_literals
+requests.packages.chardet.mbcssm:  SJIS_st,SJISSMModel,SJISCharLenTable
+requests.packages.chardet.universaldetector:  UniversalDetector,reset,__module__
+encodings:  search_function,_import_tail,__module__
+_subprocess:  
+re:  __module__,finditer,_expand
+pyreadline.keysyms.winconstants:  absolute_import,CF_PRIVATELAST,VK_KANA
+math:  
+requests.packages.chardet.langthaimodel:  ThaiLangModel,TIS620CharToOrderMap,TIS620ThaiModel
+requests.packages.chardet.jpcntx:  reset,feed,__module__
+cryptography.hazmat:  division,print_function,absolute_import
+simplejson.scanner:  __module__,py_make_scanner,__all__
+requests.packages.urllib3.util.retry:  __module__,Retry,is_forced_retry
+pyreadline:  console,modes,unicode_literals
+requests.packages.chardet.codingstatemachine:  reset,eStart,__module__
+_locale:  
+logging:  logMultiprocessing,__str__,LogRecord
+pyreadline.keysyms.keysyms:  code2sym_map,VkKeyScan,log
+thread:  
+traceback:  print_stack,print_exception,print_last
+_collections:  
+cryptography.hazmat.primitives.twofactor:  division,__module__,InvalidToken
+pyreadline.keysyms.common:  control,__module__,set
+array:  
+requests.packages.urllib3.util.url:  namedtuple,parse_url,netloc
+_LWPCookieJar:  __module__,iso2time,FileCookieJar
+posixpath:  pardir,_varprog,sameopenfile
+urllib3.request:  urlencode,__module__,__all__
+cryptography.utils:  __module__,_DeprecatedValue,InterfaceNotImplemented
+time:  
+argparse:  _ActionsContainer,add_mutually_exclusive_group,_check_conflict
+_codecs:  
+email.feedparser:  feed,__module__,NLCRE
+cryptography.__about__:  division,__copyright__,__summary__
+copy:  _copy_with_copy_method,__module__,_deepcopy_atomic
+requests.packages.chardet.sjisprober:  reset,SJISSMModel,__module__
+hashlib:  __py_new,struct,__all__
+keyword:  iskeyword,main,kwlist
+_csv:  
+requests.models:  guess_filename,PreparedRequest,datetime
+urllib3.packages.ordered_dict:  __module__,OrderedDict,iteritems
+sre_compile:  _optimize_unicode,isstring,_sre
+simplejson.ordered_dict:  __module__,OrderedDict,popitem
+requests.packages.chardet.euckrprober:  EUCKRSMModel,__module__,get_charset_name
+_hashlib:  
+difflib:  _count_leading,heapq,_namedtuple
+getpass:  unix_getpass,getpass,win_getpass
+__main__:  main,SiteFacade,Parser
+unittest.result:  __module__,_testRunEntered,addSkip
+pyasn1.type.namedtype:  __module__,getTagMap,getNameByPosition
+email.generator:  __module__,_handle_message,Generator
+_ssl:  
+pyreadline.modes.vi:  key_percent,is_search,do_search
+warnings:  __module__,filterwarnings,once_registry
+glob:  _unicode,__module__,__all__
+ctypes.macholib:  __version__,__doc__
+_io:  
+linecache:  updatecache,clearcache,__all__
+OpenSSL.rand:  _unspecified,status,_builtin_bytes
+requests.packages.chardet.compat:  sys,base_str,wrap_ord
+pyreadline.release:  name,license,platforms
+hmac:  __module__,copy,trans_5C
+email.iterators:  _structure,typed_subpart_iterator,__all__
+random:  WichmannHill,_sin,_exp
+pyreadline.console.ansi:  __module__,write_color,unicode_literals
+subprocess:  _child_created,SW_HIDE,STDOUT
+ctypes._endian:  _swappedbytes_,Union,WinDLL
+xml:  _MINIMUM_XMLPLUS_VERSION,__all__,_xmlplus
+importlib:  sys,_resolve_name,import_module
+requests.sessions:  get_netrc_auth,__module__,OrderedDict
+urllib3.connection:  __module__,RECENT_DATE,HTTPConnection
+_json:  
+requests.packages.chardet.jisfreq:  JISCharToFreqOrder,JIS_TYPICAL_DISTRIBUTION_RATIO,JIS_TABLE_SIZE
+xml.etree.ElementTree:  register_namespace,XMLID,text
+requests.utils:  unquote,get_netrc_auth,getproxies
+smtplib:  ehlo,__module__,base64
+requests.packages.urllib3.fields:  make_multipart,mimetypes,render_headers
+cryptography:  division,__copyright__,__summary__
+repr:  aRepr,__module__,repr_list
+requests.packages.urllib3:  HTTPSConnectionPool,Retry,connection_from_url
+ssl:  SSL_ERROR_SYSCALL,base64,cert_time_to_seconds
+cookielib:  __str__,set_ok_port,blocked_domains
+bisect:  insort_right,bisect,bisect_left
+pyasn1.compat:  
+threading:  _BoundedSemaphore,_sleep,Semaphore
+ctypes.wintypes:  HBITMAP,Union,c_wchar
+pyasn1.type.namedval:  clone,__ne__,NamedValues
+unittest.case:  skip,functools,assertGreater
+locale:  LC_NUMERIC,__module__,setlocale
+atexit:  _exithandlers,__all__,_run_exitfuncs
+pyreadline.unicode_helper:  pyreadline_codepage,ensure_unicode,PY3
+requests.status_codes:  code,LookupDict,title
+calendar:  itermonthdates,__module__,_days
+requests.auth:  __module__,AuthBase,b64encode
+plistlib:  __module__,__repr__,writeData
+urllib:  test1,getproxies,http_error_401
+simplejson.decoder:  __module__,raw_decode,PY3
+pyreadline.lineeditor:  unicode_literals,absolute_import,print_function
+_MozillaCookieJar:  __module__,FileCookieJar,LoadError
+urllib3.util.connection:  socket,_set_socket_options,create_connection
+email:  message_from_file,LazyImporter,__module__
+ftplib:  parse257,set_debuglevel,getwelcome
+Queue:  heapq,qsize,_init
+ctypes:  _flags_,Union,_argtypes_
+requests.packages.urllib3._collections:  __module__,OrderedDict,RecentlyUsedContainer
+xml.etree:  
+requests.packages.urllib3.connection:  __module__,RECENT_DATE,HTTPConnection
+cryptography.hazmat.bindings._openssl:  
+itertools:  
+opcode:  hasjrel,hasconst,EXTENDED_ARG
+requests:  __module__,__build__,PreparedRequest
+pdb:  do_enable,help,help_run
+mimetools:  getmaintype,decodetab,filterwarnings
+cryptography.hazmat.bindings:  division,print_function,absolute_import
+unittest:  removeResult,SkipTest,TextTestResult
+urllib3.poolmanager:  HTTPSConnectionPool,Retry,RecentlyUsedContainer
+xml.parsers:  __doc__
+dummy_thread:  __module__,__enter__,__exit__
+platform:  system,__module__,dist
+sre_constants:  REPEAT_ONE,makedict,AT_END_LINE
+json:  load,JSONEncoder,_default_encoder
+pyreadline.clipboard:  send_data,get_clipboard_text_and_convert,success
+urllib3.filepost:  b,encode_multipart_formdata,iter_fields
+requests.packages.urllib3.connectionpool:  HTTPSConnectionPool,Retry,HTTPConnection
+requests.packages.urllib3.util.connection:  socket,_set_socket_options,create_connection
+email.utils:  parsedate,unquote,UEMPTYSTRING
+pyreadline.error:  __module__,unicode_literals,GetSetError
+nturl2path:  pathname2url,__doc__,url2pathname
+requests.packages.chardet.euctwprober:  __module__,get_charset_name,EUCTWProber
+urllib3.util.url:  namedtuple,parse_url,netloc
+simplejson._speedups:  
+pyreadline.console:  success,unicode_literals,glob
+zlib:  
+pyasn1.codec.cer:  
+json.decoder:  __module__,scanner,JSONDecoder
+copy_reg:  _inverted_registry,_slotnames,__all__
+requests.packages.urllib3.filepost:  b,encode_multipart_formdata,iter_fields
+io:  UnsupportedOperation,__module__,__metaclass__
+requests.packages.chardet.mbcsgroupprober:  CP949Prober,__module__,CharSetGroupProber
+pyexpat:  
+requests.packages.urllib3.util.response:  is_fp_closed,is_response_to_head,httplib
+requests.packages.chardet.sbcharsetprober:  POSITIVE_CAT,NUMBER_OF_SEQ_CAT,__module__
+rfc822:  unquote,parsedate,__module__
+sys:  
+requests.hooks:  HOOKS,dispatch_hook,__doc__
+requests.packages.chardet.chardistribution:  EUCTW_TYPICAL_DISTRIBUTION_RATIO,feed,__module__
+winerror:  ERROR_DS_SRC_SID_EXISTS_IN_FOREST,ERROR_BAD_NET_NAME,ERROR_CTX_WD_NOT_FOUND
+_weakref:  
+_md5:  
+urlparse:  unquote,_is_unicode,uses_params
+ctypes.macholib.dylib:  __all__,test_dylib_info,dylib_info
+sets:  _compute_hash,__module__,_update
+requests.packages.urllib3.packages.six:  _resolve,__module__,_iteritems
+heapq:  sort,chain,item
+pyreadline.clipboard.ironpython_clipboard:  txt,unicode_literals,cb
+_sha512:  
+pyasn1.codec.der:  
+pyasn1.type.tag:  __module__,tagFormatSimple,isSuperTagSetOf
+email.mime:  
+msvcrt:  
+requests.packages.chardet:  __version__,detect,version_info
+struct:  _clearcache,__doc__
+urllib3.util.response:  is_fp_closed,is_response_to_head,httplib
+requests.packages.chardet.langhebrewmodel:  Win1255HebrewModel,win1255_CharToOrderMap,HebrewLangModel
+collections:  _field_template,__ror__,OrderedDict
+unittest.main:  __module__,USAGE_AS_MAIN,parseArgs
+cryptography.hazmat.bindings.openssl:  division,print_function,absolute_import
+pyreadline.py3k_compat:  callable,StringIO,unicode_literals
+textwrap:  __module__,_fix_sentence_endings,_unicode
+requests.packages.chardet.utf8prober:  reset,feed,__module__
+requests.packages.urllib3.response:  read_chunked,__module__,get_redirect_location
+signal:  
+requests.packages.chardet.cp949prober:  CP949Prober,CP949SMModel,__module__
+requests.packages.urllib3.request:  urlencode,__module__,__all__
+quopri:  unhex,ishex,MAXLINESIZE
+requests.packages.urllib3.contrib:  
+stat:  S_IWRITE,ST_MTIME,S_IRGRP
+xml.parsers.expat:  __version__,__doc__
+_winreg:  
+requests.packages.chardet.gb2312prober:  __module__,GB2312DistributionAnalysis,MultiByteCharSetProber
+requests.packages.chardet.euckrfreq:  EUCKR_TYPICAL_DISTRIBUTION_RATIO,EUCKR_TABLE_SIZE,EUCKRCharToFreqOrder
+pyreadline.modes.notemacs:  previous_history,history_search_forward,transpose_words
+email.errors:  MessageError,__module__,StartBoundaryNotFoundDefect
+requests.packages.chardet.big5freq:  BIG5_TABLE_SIZE,BIG5_TYPICAL_DISTRIBUTION_RATIO,Big5CharToFreqOrder
+cgi:  mimetools,disposition_options,__module__
+requests.packages.chardet.eucjpprober:  reset,feed,__module__
+requests.packages.chardet.langgreekmodel:  Latin7_CharToOrderMap,GreekLangModel,win1253_CharToOrderMap
+pyasn1.codec.ber.decoder:  SequenceOfDecoder,__module__,useful
+inspect:  CO_NESTED,ArgInfo,getfile
+utilities:  __module__,verbose,getTarget
+pyasn1.type.char:  TeletexString,GraphicString,UniversalString
+pyreadline.keysyms.ironpython_keysyms:  code2sym_map,unicode_literals,validkey
+unittest.runner:  __module__,resultclass,separator1
+urllib3.util.ssl_:  OP_NO_SSLv3,OP_NO_SSLv2,__module__
+requests.cookies:  __module__,set,set_cookie
+unittest.loader:  _find_tests,__module__,loadTestsFromNames
+netbios:  NRC_NAMTFUL,FIND_NAME_HEADER_ITEMS,NRC_CMDCAN
+_functools:  
+socket:  SocketType,SSL_ERROR_SYSCALL,_getclosed
+netrc:  stat,__all__,__str__
+pyasn1.type.tagmap:  __module__,getNegMap,__getitem__
+ctypes.macholib.framework:  __all__,STRICT_FRAMEWORK_RE,framework_info
+os:  pardir,__module__,sep
+marshal:  
+win32api:  
+__future__:  __module__,getMandatoryRelease,division
+cryptography.hazmat.bindings.openssl.binding:  __module__,ffi,InternalError
+OpenSSL.version:  __version__,__doc__
+pyreadline.lineeditor.history:  __module__,history_search_forward,unicode_literals
+__builtin__:  
+operator:  
+requests.packages.urllib3.packages.ssl_match_hostname:  match_hostname,CertificateError,__all__
+_threading_local:  current_thread,__module__,__new__
+errno:  
+_socket:  
+_sha256:  
+urllib3.response:  read_chunked,__module__,get_redirect_location
+Cookie:  load,__module__,set
+cryptography.exceptions:  UNSUPPORTED_HASH,__module__,AlreadyUpdated
+urllib3.util:  ssl_wrap_socket,SSLContext,parse_url
+urllib3._collections:  __module__,OrderedDict,RecentlyUsedContainer
+simplejson.encoder:  default,__module__,PY3
+_warnings:  
+simplejson:  load,JSONEncoder,_default_encoder
+siteinfo:  TargetType,__module__,PostData
+requests.compat:  unquote,urlencode,getproxies
+_struct:  
+uu:  decode,__module__,__all__
+requests.packages:  sys,chardet,urllib3
+requests.packages.chardet.mbcharsetprober:  reset,feed,__module__
+requests.structures:  __delitem__,__module__,__repr__
+win32evtlogutil:  winerror,FeedEventLogRecords,AddSourceToRegistry
+pyasn1.codec:  
+pyreadline.modes.emacs:  previous_history,history_search_forward,exchange_point_and_mark
+_random:  
+contextlib:  warn,wraps,__exit__
+requests.packages.chardet.escprober:  reset,get_confidence,__module__
+gettext:  lngettext,charset,ugettext
+requests.packages.urllib3.util.timeout:  clone,current_time,__module__
+_abcoll:  __module__,Container,__isub__
+getopt:  opt,__module__,short_has_arg
+nt:  
+requests.packages.urllib3.poolmanager:  HTTPSConnectionPool,Retry,RecentlyUsedContainer
+genericpath:  isdir,stat,commonprefix
+mimetypes:  read_windows_registry,MimeTypes,encoding
+_sha:  
+pyasn1.codec.ber:  
+win32con:  TAPE_DRIVE_FORMAT,SLE_ERROR,IMAGE_REL_I386_SECTION
+urllib3:  HTTPSConnectionPool,Retry,connection_from_url
+urllib2:  getproxies,add_password,__str__
+unittest.signals:  wraps,__unittest,removeResult
+simplejson.compat:  long_type,binary_type,b
+requests.certs:  where,os,__doc__
+readline:  callback_handler_remove,get_history_length,set_pre_input_hook
+urllib3.packages.ssl_match_hostname:  match_hostname,CertificateError,__all__
+pyasn1.codec.der.decoder:  __module__,decoder,decode
+--------------------------------------------------
+Modules not imported: 
+packages.urllib3.util.Timeout
+fcntl
+IronPythonConsole
+pyreadline.keysyms.make_keysym
+_emx_link
+startup
+System
+ce
+urllib.request
+Carbon.Files
+ctypes.cdll
+http.client
+http
+java.lang
+pyreadline.keysyms.make_KeyPress_from_keydescr
+riscosenviron
+console
+enum.Enum
+ctypes._SimpleCData
+riscos
+logging.NullHandler
+packages.urllib3.util.parse_url
+EasyDialogs
+ctypes.windll
+MacOS
+Carbon.File
+chardet
+certifi
+Carbon
+clr
+riscospath
+pyreadline.keysyms.make_keyinfo
+_dummy_threading
+packages.ssl_match_hostname.match_hostname
+rourl2path
+os2
+termios
+pyreadline.keysyms.make_KeyPress
+ndg.httpsclient.subj_alt_name
+pwd
+urllib.parse
+_xmlplus
+gestalt
+builtins
+System.Windows.Forms.Clipboard
+requests.__version__
+os.path
+_scproxy
+vms_lib
+importlib.reload
+pyasn1.__version__
+ndg.httpsclient.ssl_peer_verification
+ElementC14N
+packages.six.moves
+queue
+SOCKS
+modes.editingmodes
+posix
+org.python.core
+http.cookies
+backports.ssl_match_hostname
+packages.ssl_match_hostname.CertificateError
