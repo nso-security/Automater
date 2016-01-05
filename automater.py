@@ -42,9 +42,9 @@ from utilities import Parser, IPWrapper
 from outputs import SiteDetailOutput
 from inputs import TargetFile
 
-__VERSION__ = '0.21'
-__GITLOCATION__ = 'https://github.com/1aN0rmus/TekDefense-Automater'
-__GITFILEPREFIX__ = 'https://raw.githubusercontent.com/1aN0rmus/TekDefense-Automater/master/'
+__VERSION__ = '0.22'
+__GITLOCATION__ = 'https://github.com/nso-security/Automater'
+__GITFILEPREFIX__ = 'https://raw.githubusercontent.com/nso-security/Automater/master/'
 
 def main():
     """
